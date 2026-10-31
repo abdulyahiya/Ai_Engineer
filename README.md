@@ -11,7 +11,8 @@ Learning AI Engineering concepts, LLM APIs, prompt engineering, and agents.
 |---|---|---|---|
 | **Day 1** | Groq API setup & first LLM call (`hello_llm.py`) | ✅ Completed | [Code](week1/day1/) |
 | **Day 2** | System Prompts & Temperature tweaking (`system_temp.py`) | ✅ Completed | [Code](week1/day2/) |
-| **Day 3** | *(Upcoming topic)* | ⏳ In Progress | [Code](week1/day3/) |
+| **Day 3** | Understanding Tokens & Usage Tracking (`tokens.py`) | ✅ Completed | [Code](week1/day3/) |
+| **Day 4** | *(Upcoming topic)* | ⏳ In Progress | [Code](week1/day4/) |
 
 ---
 
