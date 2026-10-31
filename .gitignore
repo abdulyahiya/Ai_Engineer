@@ -1,19 +1,31 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
 
 # Virtual Environments
 .venv/
 **/.venv/
+env/
+venv/
 
-# Environment Variables
+# Environment Variables & Secrets
 .env
 **/.env
+*.env
 
 # Browser cookie exports — these are live login sessions, never commit them
 cookies.txt
 *cookies*.txt
 **/cookies.txt
 
-# VS Code
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDEs & Editors
 .vscode/
+.idea/
