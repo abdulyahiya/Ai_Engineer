@@ -12,7 +12,7 @@ client = Groq(api_key=my_api_key)  # Initialize the Groq client with the API key
 
 model = "openai/gpt-oss-120b"  # Specify the model mode to use
 role="user"
-prompt1 ="Hi!"
+prompt1 ="Hey you there! how are you ?"
 prompt2 ="explain time travel in 100 words"
 prompt3="write a 100 word essay on machine learning"
 
